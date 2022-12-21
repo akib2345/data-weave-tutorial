@@ -8,7 +8,7 @@ Here's an example where `update` is used to increase a value and even insert a f
 #### Input
 ```json
 {
-  "firstName": "Avery",
+  "firstName": "akib",
   "lastName": "Chance",
   "age": 56,
   "occupation": "Physicist"
